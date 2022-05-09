@@ -4,7 +4,7 @@ We have been tasked to assess whether a company would bankrupt in the long run. 
 Our task is to assess whether a company would bankrupt in the long run.  This would tie back to the private bank’s business objective to reduce loan defaults – notably in the collections process (to help identify any problems soonest possible).
 
 See attached the final report, along with code snippets covering the various stages.
-## STAGE 1:  DATA Import/ Preparation
-## STAGE 2:  Exploratory Data Analysis
-## STAGE 3:  Machine Learning
-## STAGE 4:  Advanced Modelling - Re-sampling; Hyperparameter Tuning; Feature Engineering 
+### STAGE 1:  DATA Import/ Preparation
+### STAGE 2:  Exploratory Data Analysis
+### STAGE 3:  Machine Learning
+### STAGE 4:  Advanced Modelling - Re-sampling; Hyperparameter Tuning; Feature Engineering 
